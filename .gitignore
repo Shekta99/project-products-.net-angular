@@ -1,0 +1,30 @@
+# Environment variables
+ProductsApi/.env
+
+# Build output
+ProductsApi/bin/
+ProductsApi/obj/
+
+# Visual Studio Code settings
+.vscode/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+
+# Logs
+*.log
+
+
+
+# DotNet files
+*.db
+*.db-shm
+*.db-wal
+
+
+
+# Ignore the publish directory
+ProductsApi/publish/
